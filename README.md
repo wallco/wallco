@@ -36,7 +36,7 @@ I look forward to dive deeper into the data world and eventually get a full time
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-**Some work examples:**
+**Some of my work:**
 
 - [Pythology - Python package for simulating epidemiological compartmental models](https://github.com/wallco/pythology) 
 - [KNN Classifier for predicting match results](https://www.kaggle.com/wallacecorrea/knn-modeling-for-match-result-prediction-73)
