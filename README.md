@@ -7,7 +7,7 @@
 
 ## Hello, world!
 
-My name is Wallace Correa, i'm a Civil Engineering student at Federal University of Rio de Janeiro.
+My name is Wallace Correa, i'm a Civil Engineering student with emphasis in hydric and environmental resources at Federal University of Rio de Janeiro.
 
 I'm a statistics and numbers enthusiast, currently working as an intern in a Data Engineering team and doing undergraduate research on mathematical modeling. 
 
