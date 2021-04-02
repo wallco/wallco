@@ -1,4 +1,4 @@
-# :man_technologist: Wallace Correa
+# :snake: Wallace Correa :snake:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wallco)](https://github.com/wallco)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallace-de-moura/)](https://www.linkedin.com/in/wallace-de-moura/)
