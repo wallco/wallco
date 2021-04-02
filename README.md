@@ -9,9 +9,9 @@
 
 My name is Wallace Correa, i'm a Civil Engineering student with emphasis in hydric and environmental resources at Federal University of Rio de Janeiro.
 
-I'm a statistics and numbers enthusiast, currently working as an intern in a Data Engineering team and doing undergraduate research on mathematical modeling, as well as some other personal projects. 
+I'm a statistics and numbers enthusiast, currently working as an intern in a Data Engineering team and doing undergraduate research on mathematical modeling, as well as some other personal projects. I also study web development (mainly backend-oriented), having participated in some projects, both personally and as a freelancer.
 
-I look forward to dive deeper into the data world and eventually get a full time position as a Data Scientist or Data Engineer.
+I look forward to dive deeper into the data world and eventually get a full time position as a Data Scientist, Data Engineer or even Back-end Developer.
 
 - :alien: My main technologies are Python, SQL and JavaScript
 - :books: I am, above all, a learning enthusiast and always aiming to work with new stuff!
