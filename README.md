@@ -40,7 +40,7 @@ I look forward to dive deeper into the data world and eventually get a full time
 **Some of my work:**
 
 - [Pythology - Python package for simulating epidemiological compartmental models](https://github.com/wallco/pythology) 
-- [KNN Classifier for predicting match results](https://www.kaggle.com/wallacecorrea/knn-modeling-for-match-result-prediction-73)
+- [KNN Classifier for predicting League of Legends match results](https://www.kaggle.com/wallacecorrea/knn-modeling-for-match-result-prediction-73)
 
 ## Github Stats
 
