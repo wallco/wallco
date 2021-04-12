@@ -14,7 +14,7 @@ I'm a statistics and numbers enthusiast, currently working as an intern in a Dat
 I look forward to dive deeper into the data world and eventually get a full time position as a Data Scientist, Data Engineer or even Back-end Developer.
 
 - :alien: My main technologies are Python, SQL, AWS/GCP and JavaScript
-- :books: I am, above all, a learning enthusiast and always aiming to work with new stuff!
+- :books: I am, above all, very passionate about learning new things and always aiming to work with new stuff!
 
 **Languages and Tools:**
 
