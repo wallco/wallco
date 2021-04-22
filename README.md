@@ -44,8 +44,8 @@ I look forward to dive deeper into the data world and eventually get a full time
 
 ## Github Stats
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wallco&show_icons=true&hide_border=true&theme=tokyonight)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wallco&show_icons=true&hide_border=true&theme=merko)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=wallco&show_icons=true&hide_border=true&theme=tokyonight)
+![Github stats](https://github-readme-stats.vercel.app/api?username=wallco&show_icons=true&hide_border=true&theme=merko)
 
 ---
