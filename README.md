@@ -9,7 +9,7 @@ My name is Wallace Correa, i'm a Civil Engineering Master with emphasis in hydri
 
 I'm a statistics and numbers enthusiast, currently working as a Data Engineer. I also have experience with web development (mainly backend-oriented), having participated in some projects, both personally and as a freelancer.
 
-- :alien: My main technologies are Python, SQL, AWS and JavaScript
+- :alien: My main technologies are Python, SQL, AWS and Spark
 - :books: I am, above all, very passionate about learning new things and always aiming to work with new stuff!
 
 **Languages and Tools:**
